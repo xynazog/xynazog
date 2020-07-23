@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 - Building things that actually work
 - Driving my bike and linkin' all parks in California
 
-#### Currently Learning 🇪🇸
+#### Currently Learning 🤯
 - Finance & Quantitative Modeling for Analysts Specialization
 - Creating 🕸 networks 
 - OCaml
-- Español
+- Español 🇪🇸
 
 #### Looking for help with 🤔
 - Creating a free Bloomberg 📈 terminal.
