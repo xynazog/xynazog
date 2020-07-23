@@ -13,3 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://media.giphy.com/media/DeOa0SqsDH5sc/giphy.gif)
+
+#### Education
+- New York University
+- Pune Insititue of Computer Technology
+
+#### Working On
+- Finance & Quantitative Modeling for Analysts Specialization
+- Model'ing CNN / RNN
+- Creating dashboards and applications for Splunk>, Splunk> Phantom.
