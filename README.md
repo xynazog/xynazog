@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 #### Working On
 - Finance & Quantitative Modeling for Analysts Specialization
 - Model'ing CNN / RNN
-- Creating dashboards and applications for Splunk>, Splunk> Phantom.
+- Creating dashboards and applications for `+Splunk>`, `@@Splunk> Phantom.@@`
