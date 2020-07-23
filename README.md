@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 #### Working at
 ```diff
 + Splunk>
-@@Splunk> Phantom@@
+@@Splunk> Phantom
 ```
 
 #### Working On
