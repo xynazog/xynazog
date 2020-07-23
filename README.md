@@ -16,16 +16,34 @@ Here are some ideas to get you started:
 
 #### Education
 - New York University
-- Pune Insititue of Computer Technology
-
-#### Working On
-- Finance & Quantitative Modeling for Analysts Specialization
-- Model'ing CNN / RNN
-- Driving my bike and linkin' all parks in California
+- Pune Institute of Computer Technology
 
 #### Working at
 ```diff
 + Splunk>
 @@Splunk> Phantom@@
 ```
-`diff + Splunk>`
+
+#### Working On
+- Model'ing CNN / RNN
+- Untangling Javascript code
+- Building things that actually work
+- Driving my bike and linkin' all parks in California
+
+#### Currently Learning
+- Finance & Quantitative Modeling for Analysts Specialization
+- OCaml
+
+#### Ask me about
+- 🍕 and 🎵
+- ❤️ for clean code
+
+#### Pronouns
+He / him
+
+#### Twitter 🦜
+@xynazog / @ankitcbhagat
+
+#### Fun Fact
+I love to beat the ETA every single time.
+
