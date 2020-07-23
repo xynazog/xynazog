@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - Driving my bike and linkin' all parks in California
 
 #### Working at
-```
+```diff
 + Splunk>
 @@Splunk> Phantom@@
 ```
