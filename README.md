@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 He / him
 
 #### Twitter 🦜
-@xynazog / @ankitcbhagat
+**@xynazog** / **@ankitcbhagat**
 
 #### Fun Fact
 I love to beat the ETA every single time.
