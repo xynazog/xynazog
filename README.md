@@ -24,19 +24,25 @@ Here are some ideas to get you started:
 @@ Splunk> Phantom @@
 ```
 
-#### Working On
+#### Working On 🔭
 - Model'ing CNN / RNN
 - Untangling Javascript code
 - Building things that actually work
 - Driving my bike and linkin' all parks in California
 
-#### Currently Learning
+#### Currently Learning 🇪🇸
 - Finance & Quantitative Modeling for Analysts Specialization
+- Creating 🕸 networks 
 - OCaml
+- Español
 
-#### Ask me about
+#### Looking for help with 🤔
+- Creating a free Bloomberg 📈 terminal.
+
+#### Ask me about 💬
 - 🍕 and 🎵
 - ❤️ for clean code
+- NYC pictures and obsession with the city
 
 #### Pronouns
 He / him
