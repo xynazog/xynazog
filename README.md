@@ -23,8 +23,9 @@ Here are some ideas to get you started:
 
 #### Working at
 ```diff
-+ Splunk>
+- Splunk>
 @@ Splunk> Phantom @@
++ Splunk> Observability
 ```
 
 #### Working On 🔭
@@ -34,23 +35,21 @@ Here are some ideas to get you started:
 - Driving my bike and linkin' all parks in California
 
 #### Currently Learning 🤯
-- Finance & Quantitative Modeling for Analysts Specialization
-- Creating 🕸 networks 
-- OCaml
-- Español 🇪🇸
+- Creating AI Agents
+- Machine Learning (Coursera)
+- System Design
 
 #### Looking for help with 🤔
 - Creating a free Bloomberg 📈 terminal.
 
 #### Ask me about 💬
 - 🍕 and 🎵
-- ❤️ for clean code
-- NYC pictures and obsession with the city
+- 
 
 #### Pronouns
 He / him
 
-#### Twitter 🦜
+#### X 🦜
 **[@xynazog](https://twitter.com/xynazog)** / **[@ankitcbhagat](https://twitter.com/ankitcbhagat)**
 
 #### Fun Fact
