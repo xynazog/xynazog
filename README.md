@@ -17,17 +17,6 @@ Here are some ideas to get you started:
 -->
 ![](https://media.giphy.com/media/DeOa0SqsDH5sc/giphy.gif)
 
-#### Education
-- New York University
-- Pune Institute of Computer Technology
-
-#### Working at
-```diff
-- Splunk>
-@@ Splunk> Phantom @@
-+ Splunk> Observability
-```
-
 #### Working On 🔭
 - Model'ing CNN / RNN
 - Untangling Javascript code
@@ -39,13 +28,8 @@ Here are some ideas to get you started:
 - Machine Learning (Coursera)
 - System Design
 
-#### Looking for help with 🤔
-- Creating a free Bloomberg 📈 terminal.
-
 #### Ask me about 💬
 - 🍕 and 🎵
-- 
-
 #### Pronouns
 He / him
 
